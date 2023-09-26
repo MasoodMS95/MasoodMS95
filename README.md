@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Masood Saaed, I'm a professional software engineer with roots in the San Francisco Bay Area. I hold a B.S. in Computer Science from California Polytechnic State University - San Luis Obispo.
+Follow along to see my coding journey!
 <!--
 **MasoodMS95/MasoodMS95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
